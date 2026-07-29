@@ -46,8 +46,6 @@ I'm a data science, AI, and finance enthusiast who loves turning raw numbers int
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Krishnasinghal25&theme=radical&hide_border=true" alt="GitHub Streak" />
 
-<img src="https://github-profile-trophy.vercel.app/?username=Krishnasinghal25&theme=radical&no-frame=true&row=1&column=6" alt="Trophies" />
-
 </div>
 
 <br/>
@@ -60,6 +58,7 @@ I'm a data science, AI, and finance enthusiast who loves turning raw numbers int
 <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Krishnasinghal25/Krishnasinghal25/output/github-contribution-grid-snake-dark.svg">
 <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Krishnasinghal25/Krishnasinghal25/output/github-contribution-grid-snake.svg">
 <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/Krishnasinghal25/Krishnasinghal25/output/github-contribution-grid-snake.svg">
+
 </picture>
 
 </div>
@@ -70,12 +69,12 @@ I'm a data science, AI, and finance enthusiast who loves turning raw numbers int
 
 <div align="center">
 
-<a href="https://github.com/Krishnasinghal25/uttarakhand-employment-ml-dashboard"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Krishnasinghal25&repo=uttarakhand-employment-ml-dashboard&theme=radical&hide_border=true" /></a>
-<a href="https://github.com/Krishnasinghal25/Uttarakhand-employment-Power-BI-dashboard"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Krishnasinghal25&repo=Uttarakhand-employment-Power-BI-dashboard&theme=radical&hide_border=true" /></a>
-<a href="https://github.com/Krishnasinghal25/Expense-Tracker-with-Budgeting"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Krishnasinghal25&repo=Expense-Tracker-with-Budgeting&theme=radical&hide_border=true" /></a>
-<a href="https://github.com/Krishnasinghal25/Smart-Load-Balancer"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Krishnasinghal25&repo=Smart-Load-Balancer&theme=radical&hide_border=true" /></a>
-<a href="https://github.com/Krishnasinghal25/java-cpu-scheduling-simulator"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Krishnasinghal25&repo=java-cpu-scheduling-simulator&theme=radical&hide_border=true" /></a>
-<a href="https://github.com/Krishnasinghal25/3d--AI-Portfolio"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Krishnasinghal25&repo=3d--AI-Portfolio&theme=radical&hide_border=true" /></a>
+<a href="https://github.com/Krishnasinghal25/uttarakhand-employment-ml-dashboard"><img src="https://img.shields.io/badge/uttarakhand--employment--ml--dashboard-8E2DE2?style=for-the-badge&logo=python&logoColor=white"/></a>
+<a href="https://github.com/Krishnasinghal25/Uttarakhand-employment-Power-BI-dashboard"><img src="https://img.shields.io/badge/Power--BI--dashboard-F000FF?style=for-the-badge&logo=powerbi&logoColor=white"/></a>
+<a href="https://github.com/Krishnasinghal25/Expense-Tracker-with-Budgeting"><img src="https://img.shields.io/badge/Expense--Tracker--Budgeting-FFD200?style=for-the-badge&logo=flutter&logoColor=black"/></a>
+<a href="https://github.com/Krishnasinghal25/Smart-Load-Balancer"><img src="https://img.shields.io/badge/Smart--Load--Balancer-8E2DE2?style=for-the-badge&logo=javascript&logoColor=white"/></a>
+<a href="https://github.com/Krishnasinghal25/java-cpu-scheduling-simulator"><img src="https://img.shields.io/badge/CPU--Scheduling--Simulator-F000FF?style=for-the-badge&logo=java&logoColor=white"/></a>
+<a href="https://github.com/Krishnasinghal25/3d--AI-Portfolio"><img src="https://img.shields.io/badge/3D--AI--Portfolio-FFD200?style=for-the-badge&logo=threedotjs&logoColor=black"/></a>
 
 </div>
 
