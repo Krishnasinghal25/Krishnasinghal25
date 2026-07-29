@@ -60,7 +60,7 @@ I'm a data science, AI, and finance enthusiast who loves turning raw numbers int
 <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Krishnasinghal25/Krishnasinghal25/output/github-contribution-grid-snake-dark.svg">
 <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Krishnasinghal25/Krishnasinghal25/output/github-contribution-grid-snake.svg">
 <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/Krishnasinghal25/Krishnasinghal25/output/github-contribution-grid-snake.svg">
-</picture>picture>
+</picture>
 
 </div>
 
