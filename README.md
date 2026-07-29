@@ -1,10 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:005C97,50:00C9A7,100:00FF87&height=220&section=header&text=Krishna%20Singhal&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Data%20Scientist%20%7C%20AI%2FML%20Enthusiast%20%7C%20Finance%20Analytics&descAlignY=55&descSize=19" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,50:7B2FF7,100:FF2E9F&height=250&section=header&text=Krishna%20Singhal&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Data%20Scientist%20%7C%20AI%2FML%20Enthusiast%20%7C%20Finance%20Analytics&descAlignY=55&descSize=19" width="100%"/>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=00C9A7&center=true&vCenter=true&width=700&lines=Turning+raw+data+into+real+decisions;Exploring+AI+at+the+intersection+of+Finance;Building+ML+models+and+interactive+dashboards;Always+learning%2C+always+experimenting" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=7B2FF7&center=true&vCenter=true&width=700&lines=Turning+raw+data+into+real+decisions;Exploring+AI+at+the+intersection+of+Finance;Building+ML+models+and+interactive+dashboards;Always+learning%2C+always+experimenting" alt="Typing SVG" /></a>
 
-<img src="https://komarev.com/ghpvc/?username=Krishnasinghal25&color=00c9a7&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=Krishnasinghal25&color=7b2ff7&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
+![Open to Collaborate](https://img.shields.io/badge/Open%20to-Collaborate-00D4FF?style=for-the-badge)
+![Focus](https://img.shields.io/badge/Focus-Data%20Science%20%7C%20AI%20%7C%20Finance-FF2E9F?style=for-the-badge)
 
 </div>
 
@@ -20,17 +22,7 @@ I'm a data science, AI, and finance enthusiast who loves turning raw numbers int
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![scikit--learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+<img src="https://skillicons.dev/icons?i=python,pandas,numpy,sklearn,streamlit,powerbi,mysql,java,js,threejs,git&theme=dark" />
 
 </div>
 
@@ -40,10 +32,12 @@ I'm a data science, AI, and finance enthusiast who loves turning raw numbers int
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Krishnasinghal25&show_icons=true&title_color=00FF87&icon_color=00C9A7&text_color=c9d1d9&bg_color=0D1117&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krishnasinghal25&layout=compact&title_color=00FF87&text_color=c9d1d9&bg_color=0D1117&hide_border=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Krishnasinghal25&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krishnasinghal25&layout=compact&theme=tokyonight&hide_border=true" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Krishnasinghal25&background=0D1117&ring=00C9A7&fire=00FF87&currStreakLabel=00FF87&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e&hide_border=true" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Krishnasinghal25&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Krishnasinghal25&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
 
 </div>
 
@@ -67,12 +61,12 @@ I'm a data science, AI, and finance enthusiast who loves turning raw numbers int
 
 <div align="center">
 
-<a href="https://github.com/Krishnasinghal25/uttarakhand-employment-ml-dashboard"><img src="https://img.shields.io/badge/uttarakhand--employment--ml--dashboard-005C97?style=for-the-badge&logo=python&logoColor=white"/></a>
-<a href="https://github.com/Krishnasinghal25/Uttarakhand-employment-Power-BI-dashboard"><img src="https://img.shields.io/badge/Power--BI--dashboard-00C9A7?style=for-the-badge&logo=powerbi&logoColor=black"/></a>
-<a href="https://github.com/Krishnasinghal25/Expense-Tracker-with-Budgeting"><img src="https://img.shields.io/badge/Expense--Tracker--Budgeting-00FF87?style=for-the-badge&logo=flutter&logoColor=black"/></a>
-<a href="https://github.com/Krishnasinghal25/Smart-Load-Balancer"><img src="https://img.shields.io/badge/Smart--Load--Balancer-005C97?style=for-the-badge&logo=javascript&logoColor=white"/></a>
-<a href="https://github.com/Krishnasinghal25/java-cpu-scheduling-simulator"><img src="https://img.shields.io/badge/CPU--Scheduling--Simulator-00C9A7?style=for-the-badge&logo=java&logoColor=black"/></a>
-<a href="https://github.com/Krishnasinghal25/3d--AI-Portfolio"><img src="https://img.shields.io/badge/3D--AI--Portfolio-00FF87?style=for-the-badge&logo=threedotjs&logoColor=black"/></a>
+<a href="https://github.com/Krishnasinghal25/uttarakhand-employment-ml-dashboard"><img src="https://img.shields.io/badge/uttarakhand--employment--ml--dashboard-00D4FF?style=for-the-badge&logo=python&logoColor=black"/></a>
+<a href="https://github.com/Krishnasinghal25/Uttarakhand-employment-Power-BI-dashboard"><img src="https://img.shields.io/badge/Power--BI--dashboard-7B2FF7?style=for-the-badge&logo=powerbi&logoColor=white"/></a>
+<a href="https://github.com/Krishnasinghal25/Expense-Tracker-with-Budgeting"><img src="https://img.shields.io/badge/Expense--Tracker--Budgeting-FF2E9F?style=for-the-badge&logo=flutter&logoColor=white"/></a>
+<a href="https://github.com/Krishnasinghal25/Smart-Load-Balancer"><img src="https://img.shields.io/badge/Smart--Load--Balancer-00D4FF?style=for-the-badge&logo=javascript&logoColor=black"/></a>
+<a href="https://github.com/Krishnasinghal25/java-cpu-scheduling-simulator"><img src="https://img.shields.io/badge/CPU--Scheduling--Simulator-7B2FF7?style=for-the-badge&logo=java&logoColor=white"/></a>
+<a href="https://github.com/Krishnasinghal25/3d--AI-Portfolio"><img src="https://img.shields.io/badge/3D--AI--Portfolio-FF2E9F?style=for-the-badge&logo=threedotjs&logoColor=white"/></a>
 
 </div>
 
@@ -88,4 +82,4 @@ uttarakhand-employment-ml-dashboard uses machine learning to predict employment 
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:005C97,50:00C9A7,100:00FF87&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,50:7B2FF7,100:FF2E9F&height=120&section=footer" width="100%"/>
